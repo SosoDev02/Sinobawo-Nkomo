@@ -60,3 +60,6 @@ Diploma in Information Communication Technology in Apllication Develeopment
 - ItemHive
 - Masakhumzi community website
 - Empiras learner dashboard
+
+##VIDEO MOCK INTERVIEW
+[![Video Title](https://github.com/SosoDev02/Sinobawo-Nkomo/blob/main/Interview%20.mp4)
