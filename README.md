@@ -63,5 +63,5 @@ Diploma in Information Communication Technology in Apllication Develeopment
 
 ##VIDEO MOCK INTERVIEW
 <video width="100%" geight="350px" controls>
-<source src="(https://github.com/SosoDev02/Sinobawo-Nkomo/blob/main/Interview%20.mp4" type="video/mp4">
+<source src="https://github.com/SosoDev02/Sinobawo-Nkomo/blob/main/Interview%20.mp4" type="video/mp4">
 </video>
