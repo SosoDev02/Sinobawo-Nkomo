@@ -1,4 +1,4 @@
-# Curriculum-Vitae
+Curriculum-Vitae
 
 ## Personal Information
 - **Name:** Sinobawo Nkomo
@@ -62,6 +62,6 @@ Diploma in Information Communication Technology in Apllication Develeopment
 - Empiras learner dashboard
 
 ##VIDEO MOCK INTERVIEW
-<video width="100%" height="350px" controls>
-<source src="https://github.com/user-attachments/assets/b2613682-13ae-4e97-9c63-22673ff05154" type="video/mp4">
-</video>
+[![Mock Interview](thumbnail.jpg)](https://github.com/user-attachments/assets/d7608168-1c9b-48ad-b47a-957b94eb69d0)
+
+
