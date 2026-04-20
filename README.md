@@ -1,3 +1,6 @@
+
+
+
 # Curriculum-Vitae
 
 ## Personal Information
@@ -63,5 +66,6 @@ Diploma in Information Communication Technology in Apllication Develeopment
 
 ##VIDEO MOCK INTERVIEW
 <video width="100%" geight="350px" controls>
-<source src="https://github.com/SosoDev02/Sinobawo-Nkomo/blob/main/Interview%20.mp4" type="video/mp4">
+<source src="
+https://github.com/user-attachments/assets/2da05372-b85f-409f-82d9-e810cf201366" type="video/mp4">
 </video>
