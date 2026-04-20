@@ -64,7 +64,7 @@ Diploma in Information Communication Technology in Apllication Develeopment
 ##VIDEO MOCK INTERVIEW
 [![Mock Interview](thumbnail.jpg)](https://github.com/user-attachments/assets/d7608168-1c9b-48ad-b47a-957b94eb69d0)
 
-# Reflection on Coding in Markdown (STAR Method)
+## Reflection on Coding in Markdown (STAR Method)
 
 ## Situation
 *I was tasked with designing a GitHub portfolio, where Markdown was the primary language for structuring my CV and embedding artefacts.*
@@ -80,7 +80,7 @@ Diploma in Information Communication Technology in Apllication Develeopment
 ## Result
 *The portfolio was successfully published on GitHub Pages, with a clear structure and professional formatting. I gained confidence in using Markdown for documentation and improved my ability to present technical content in a polished way.*
 
-# Reflection on Mock Interview Video Experience (STAR Method)
+## Reflection on Mock Interview Video Experience (STAR Method)
 
 ## Situation
 *As part of the assessment, I participated in a recorded mock interview to practice professional communication and presentation skills.*
@@ -97,7 +97,7 @@ Diploma in Information Communication Technology in Apllication Develeopment
 ## Result
 *The mock interview helped me identify nervous habits and improve my delivery. I gained confidence in structuring responses using the STAR method and received positive feedback on my clarity and professionalism.*
 
-# Reflection on the Use of GitHub Pages (STAR Method)
+## Reflection on the Use of GitHub Pages (STAR Method)
 
 ## Situation
 *As part of the assessment, I needed to publish my portfolio and project artefacts online in a professional format.*
